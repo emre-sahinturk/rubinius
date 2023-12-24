@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Explorer with LanceDB, Actions and Docs updates (#7487)
