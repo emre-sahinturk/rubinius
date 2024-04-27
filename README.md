@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Update Dockerfile for Raspberry Pi Support (#8123)
