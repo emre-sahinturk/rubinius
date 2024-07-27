@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
